@@ -67,7 +67,9 @@ python Main.py
 
 ### ⚙️ 2. Compilación a formato `.exe`
 
-Si deseas generar un archivo ejecutable (`.exe`) de CyberiusUnzipCracker con su icono personalizado y sin consola, esto generará el archivo ejecutable dentro de la carpeta `dist/CyberiusUnzipCracker/CyberiusUnzipCracker.exe` sigue estos pasos:
+Si deseas generar un archivo ejecutable (`.exe`) de CyberiusUnzipCracker
+con su icono personalizado y sin consola, esto generará el archivo ejecutable
+dentro de la carpeta `dist/CyberiusUnzipCracker/CyberiusUnzipCracker.exe` sigue estos pasos:
 
 ```bash
 cd CyberiusUnzipCracker
