@@ -64,3 +64,12 @@ git clone https://github.com/CyberiusUnzipCracker.git
 cd CyberiusUnzipCracker
 pip install -r requirements.txt
 python Main.py
+
+### ⚙️ 2. Compilación a formato `.exe`
+
+Si deseas generar un archivo ejecutable (`.exe`) de CyberiusUnzipCracker con su icono personalizado y sin consola, esto generará el archivo ejecutable dentro de la carpeta `dist/CyberiusUnzipCracker/CyberiusUnzipCracker.exe` sigue estos pasos:
+
+```bash
+cd CyberiusUnzipCracker
+pip install pyinstaller
+pyinstaller CyberiusUnzipCracker.spec
