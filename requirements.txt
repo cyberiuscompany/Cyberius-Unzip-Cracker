@@ -1,0 +1,4 @@
+PyQt5
+pyzipper
+rarfile
+py7zr
