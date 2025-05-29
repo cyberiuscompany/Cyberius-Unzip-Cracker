@@ -7,12 +7,10 @@ Soporta los formatos `.zip`, `.rar` y `.7z`. Ideal para entornos forenses, de re
 
 ## 🎥 Capturas de pantalla
 
-### Interfaz principal
-![Interfaz Principal](Captura_Principal.png)
-
-### Resultado tras descomprimir
-![Comprimido Crackeado](Captura_Comprimido_Crackeado.png)
-
+<div style="display: flex; justify-content: space-between; gap: 10px;">
+  <img src="Captura_Principal.png" alt="Interfaz Principal" width="48%">
+  <img src="Captura_Comprimido_Crackeado.png" alt="Comprimido Crackeado" width="48%">
+</div>
 ---
 
 ## ⚙️ Funcionalidades
