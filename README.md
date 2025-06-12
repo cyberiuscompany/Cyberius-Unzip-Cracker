@@ -35,12 +35,12 @@ Soporta los formatos `.zip`, `.rar` y `.7z`. Ideal para entornos forenses, de re
 
 ## 📄 Documentación adicional
 
-- [🔐 Seguridad (SECURITY.md)](./SECURITY.md)
-- [📜 Licencia (LICENSE)](./LICENSE)
-- [🤝 Código de Conducta (CODE_OF_CONDUCT.md)](./CODE_OF_CONDUCT.md)
-- [📬 Cómo contribuir (CONTRIBUTING.md)](./CONTRIBUTING.md)
-- [📢 Soporte (SUPPORT.md)](./SUPPORT.md)
-- [⚠️ Aviso legal (DISCLAIMER.md)](./DISCLAIMER.md)
+- [🔐 Seguridad](.github/SECURITY.md)
+- [📜 Licencia](LICENSE)
+- [🤝 Código de Conducta](.github/CODE_OF_CONDUCT.md)
+- [📬 Cómo contribuir](.github/CONTRIBUTING.md)
+- [📢 Soporte](.github/SUPPORT.md)
+- [⚠️ Aviso legal](DISCLAIMER.md)
 
 ---
 
