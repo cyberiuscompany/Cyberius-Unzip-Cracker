@@ -8,7 +8,7 @@ Soporta los formatos `.zip`, `.rar` y `.7z`. Ideal para entornos forenses, de re
 ## 🎥 Demostración
 
 <p align="center">
-  <img src="docs/demo.gif" width="600" alt="Demostración de CyberiusUnzipCracker">
+  <img src="docs/Demo.gif" width="1200" alt="Demostración de CyberiusUnzipCracker">
 </p>
 
 ## Capturas de pantalla
