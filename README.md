@@ -5,7 +5,13 @@ Soporta los formatos `.zip`, `.rar` y `.7z`. Ideal para entornos forenses, de re
 
 ---
 
-## 🎥 Capturas de pantalla
+## 🎥 Demostración
+
+<p align="center">
+  <img src="docs/demo.gif" width="600" alt="Demostración de CyberiusUnzipCracker">
+</p>
+
+## Capturas de pantalla
 
 <div style="display: flex; justify-content: space-between; gap: 10px;">
   <img src="Captura_Principal.png" alt="Interfaz Principal" width="48%">
