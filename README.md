@@ -22,11 +22,10 @@ Soporta los formatos `.zip`, `.rar` y `.7z`. Ideal para entornos forenses, de re
 
 ## Capturas de pantalla
 
-<div style="display: flex; justify-content: space-between; gap: 10px;">
-  <img src="Captura_Principal.png" alt="Interfaz Principal" width="48%">
-  <img src="Captura_Comprimido_Crackeado.png" alt="Comprimido Crackeado" width="48%">
-</div>
----
+<p align="center">
+  <img src="Captura_Principal.png" alt="Interfaz Principal" width="500" height="500">
+  <img src="Captura_Comprimido_Crackeado.png" alt="Comprimido Crackeado" width="500" height="500">
+</p>
 
 ## ⚙️ Funcionalidades
 
