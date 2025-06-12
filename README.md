@@ -68,21 +68,49 @@ Para que el programa funcione correctamente con archivos `.rar`, necesitas tener
 
 ## ⚙️ Instalación y Uso
 
-### 1. Clona o descarga este proyecto
+### 1. Instalación desde el código fuente
+
+Puedes clonar o descargar este proyecto y usarlo directamente con Python:
 
 ```bash
-git clone https://github.com/CyberiusUnzipCracker.git
-cd CyberiusUnzipCracker
+git clone https://github.com/CyberiusCompany/Cyberius-Unzip-Cracker.git
+cd Cyberius-Unzip-Cracker
 pip install -r requirements.txt
 python Main.py
+```
 
-### ⚙️ 2. Compilación a formato `.exe`
+---
 
-Si deseas generar un archivo ejecutable (`.exe`) de CyberiusUnzipCracker
-con su icono personalizado y sin consola, esto generará el archivo ejecutable
-dentro de la carpeta `dist/CyberiusUnzipCracker/CyberiusUnzipCracker.exe` sigue estos pasos:
+### 2. Instalación profesional como paquete
+
+También puedes instalar el proyecto con `setup.py` para habilitar un comando global:
 
 ```bash
-cd CyberiusUnzipCracker
+git clone https://github.com/CyberiusCompany/Cyberius-Unzip-Cracker.git
+cd Cyberius-Unzip-Cracker
+pip install .
+cyberiusunzip
+```
+
+---
+
+### 3. Compilación a formato `.exe`
+
+Si deseas generar un archivo ejecutable (`.exe`) de **CyberiusUnzipCracker**  
+con su icono personalizado y sin consola, sigue estos pasos:
+
+Esto generará el archivo ejecutable dentro de la carpeta:
+
+```
+dist/CyberiusUnzipCracker/CyberiusUnzipCracker.exe
+```
+
+#### Pasos:
+
+```bash
+cd Cyberius-Unzip-Cracker
 pip install pyinstaller
 pyinstaller CyberiusUnzipCracker.spec
+```
+
+> ⚠️ Asegúrate de que `unrar.exe`, `cyberius.ico` y otros archivos estén en las rutas correctas definidas en el `.spec`.
