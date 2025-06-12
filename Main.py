@@ -226,8 +226,11 @@ class ZipBruteForcer(QWidget):
 
         QTimer.singleShot(0, lambda: self.start_button.setEnabled(True))
 
-if __name__ == '__main__':
+def main():
     app = QApplication(sys.argv)
     window = ZipBruteForcer()
     window.show()
     sys.exit(app.exec_())
+
+if __name__ == '__main__':
+    main()
