@@ -1,0 +1,31 @@
+# ───── Python ─────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# ───── Entornos virtuales ─────
+venv/
+.env/
+.venv/
+
+# ───── Logs, backups, cachés ─────
+*.log
+*.tmp
+*.bak
+*.cache
+
+# ───── PyInstaller (excluimos dist/build, pero permitimos .spec) ─────
+build/
+dist/
+
+# ───── Configuración de editores ─────
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ───── Archivos del sistema ─────
+.DS_Store
+Thumbs.db
+desktop.ini
