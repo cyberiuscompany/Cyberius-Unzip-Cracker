@@ -15,6 +15,12 @@ Soporta los formatos `.zip`, `.rar` y `.7z`. Ideal para entornos forenses, de re
 
 ---
 
+<p align="center">
+  <img src="Icono.png" alt="Banner" width="500"/>
+</p
+
+---
+
 ## 🎥 Demostración
 
 <p align="center">
