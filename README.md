@@ -102,7 +102,7 @@ python Main.py
 
 ---
 
-### 2. Instalación profesional como paquete
+### 2. Instalación como si fuese paquete profesional 
 
 También puedes instalar el proyecto con `setup.py` para habilitar un comando global:
 
