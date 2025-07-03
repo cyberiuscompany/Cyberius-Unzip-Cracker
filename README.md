@@ -1,14 +1,13 @@
-# 🛡️ CyberiusUnzipCracker
-
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@CyberiusCompany)
 ![GitHub release downloads](https://img.shields.io/github/downloads/CyberiusCompany/Cyberius-Unzip-Cracker/latest/total)
 ![Versión](https://img.shields.io/badge/versión-1.0.0-blue)
 ![Sistema](https://img.shields.io/badge/windows-x64-green)
+![Sistema](https://img.shields.io/badge/linux-x64-green)
 ![Licencia](https://img.shields.io/badge/licencia-Privada-red)
 ![Uso](https://img.shields.io/badge/uso-solo%20legal-important)
-![Estado](https://img.shields.io/badge/release-estable-brightgreen)
 ![Python](https://img.shields.io/badge/python-3.7%2B-yellow)
-![Interfaz](https://img.shields.io/badge/interfaz-GUI%20%2B%20CLI-lightgrey)
 
+# CyberiusUnzipCracker
 
 Herramienta gráfica en Python para recuperar archivos comprimidos protegidos por contraseña mediante fuerza bruta.  
 - Soporta los formatos `.zip`, `.rar` y `.7z`. Ideal para entornos forenses, de recuperación o ciberseguridad.
